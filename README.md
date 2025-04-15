@@ -27,6 +27,6 @@ productive, innovative and creative.
 ![Tomas Lopez's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasLopez03&theme=tokyonight&layout=compact)
 
 # Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href = 'https://www.linkedin.com/in/tom%C3%A1s-l%C3%B3pez-bulacio-1081ab1a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'> <img align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href = 'Lopeztomas.dev@gmail.com'> <img align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   
