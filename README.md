@@ -12,8 +12,9 @@ I am a Software Development Technician stundent, i'm in the last year of my degr
 I am expanding my knowledge in backend development, i love to learn and build something new,
 productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Reactpy
+  - Django
   - FastAPI
+  - React
 - ✔ Ask me about anything, I am happy to help😉<br>
 - Outside tech, 📖 I like wacthing series, 🎵 listening to music, and playing videogames.
 - 📫 Reach out to me at: <a href="lopeztomas.dev@gmail.com">lopeztomas.dev@gmail.com</a>
