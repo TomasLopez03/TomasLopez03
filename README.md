@@ -13,8 +13,8 @@ I am expanding my knowledge in backend development, i love to learn and build so
 productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Django
-  - FastAPI
   - React
+  - FastAPI
 - ✔ Ask me about anything, I am happy to help😉<br>
 - Outside tech, 📖 I like wacthing series, 🎵 listening to music, and playing videogames.
 - 📫 Reach out to me at: <a href="lopeztomas.dev@gmail.com">lopeztomas.dev@gmail.com</a>
